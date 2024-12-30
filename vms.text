@@ -1,0 +1,24 @@
+The Advanced Vehicle Rental System lets users manage a group of vehicles, rent them to customers, and return them when done. The program is built using object-oriented programming (OOP) concepts like
+ Inheritance,
+ Encapsulation, 
+ Polymorphism to keep the code well-organized and easy to use.
+
+The Main Class
+The program starts with a simple menu that users interact with through the console.
+
+Here are its features:
+-Shows a menu with the following options:
+--See available vehicles.
+--Rent a vehicle.
+--Return a vehicle.
+--Exit the program.
+Lets users choose an option and perform the action they selected.
+
+
+Here are the features of the system: 
+--Add vehicles
+--Displays all vehicles that are currently marked as available using the displayAvailableVehicles method.
+--Rent a Vehicle
+--Allows a user to rent a vehicle by entering the vehicle ID and rental days. The system calculates the cost and marks the vehicle as unavailable.
+--Lets a user return a rented vehicle by entering its ID. The system marks it as available again.
+--Exits the system and ends the program.
